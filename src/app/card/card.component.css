@@ -1,0 +1,25 @@
+.card{
+  display: flex;
+  justify-content: center;
+  margin: auto;
+}
+
+.btn btn-primary{
+  display: block;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-title{
+  display: flex;
+  justify-content: center;
+}
+
+.card-img-top{
+  height: 200px;
+}
+
+
+.card-text{
+  text-align: center;
+}
